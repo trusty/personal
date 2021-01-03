@@ -13,10 +13,10 @@
 ## Libraries
 
 ### Rust
-[Mockall](https://docs.rs/mockall/0.9.0/mockall/)
-[Insta - snapshot testing](https://docs.rs/insta/1.4.0/insta/)
-[AwesomeRust / Testing](https://github.com/rust-unofficial/awesome-rust#testing)
+- [Mockall](https://docs.rs/mockall/0.9.0/mockall/)
+- [Insta - snapshot testing](https://docs.rs/insta/1.4.0/insta/)
+- [AwesomeRust / Testing](https://github.com/rust-unofficial/awesome-rust#testing)
 
 ### Java
-[Snapshot Testing](https://github.com/origin-energy/java-snapshot-testing)
-[Snapshot Testing](https://github.com/Zenika/java-snapshot-matcher)
+- [Snapshot Testing](https://github.com/origin-energy/java-snapshot-testing)
+- [Snapshot Testing](https://github.com/Zenika/java-snapshot-matcher)

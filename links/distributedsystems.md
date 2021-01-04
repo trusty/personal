@@ -5,3 +5,7 @@
 - [ksuid](https://github.com/segmentio/ksuid)
 - [uuid](https://github.com/google/uuid)
 - [instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+
+
+## Microservices
+- [Design Microservice Architectures the Right Way - Youtube](https://www.youtube.com/watch?v=j6ow-UemzBc)

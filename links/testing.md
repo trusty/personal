@@ -10,6 +10,14 @@
 
 ---
 
+## Tools
+
+### Performance testing tools
+
+- [wrk - HTTP benchmarking tool](https://github.com/wg/wrk)
+- [locust - Modern load testing tool - python](https://locust.io/)
+- [hyperfine - shell command performance testing](https://github.com/sharkdp/hyperfine)
+
 ## Libraries
 
 ### Rust
